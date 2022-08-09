@@ -1,7 +1,7 @@
 # Assignment
 Astrotalk Assignment
 
-'''Get the Patient Detials'''.
+''Get the Patient Detials''
 ![getPatient](https://user-images.githubusercontent.com/68012074/183608724-018c01dc-f221-4cd9-bd4e-26098ce3e855.png)
 
 #ADD the patient Detials.
