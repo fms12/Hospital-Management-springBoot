@@ -12,3 +12,6 @@ Fetch All admitted patients Data.
 
 Fetch All Discharge patient
 ![fetchAllDischargePatient](https://user-images.githubusercontent.com/68012074/183609133-a4b038c6-fc49-4367-945f-79d0799c16cb.png)
+
+Database 
+![image](https://user-images.githubusercontent.com/68012074/183841449-d85befea-a55c-4193-bcb5-a1385fea9b40.png)
